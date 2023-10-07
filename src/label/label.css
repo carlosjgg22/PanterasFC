@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+.labelBienvenido {
+    text-align: right;
+    color: yellow;
+    position: absolute;
+    top: 1px;
+    right:100px;
+    font-size:xx-large;
+    font-family: 'Audiowide', cursive;
+
+}

@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Kodchasan:wght@300&display=swap');
+.clearfix{
+    content: "";
+    clear: both;
+    display: table;
+    color: black;
+    text-align: left;
+    top: 10px;
+    left: 10px;
+}
+
+.imagenEquipo {
+
+    float: right;
+}
+
+.imagenBalon {
+   
+    float: left;
+}
+
+.imagenVision {
+    float: right;
+}
+
+.mision {
+    font-family: 'Kodchasan', sans-serif;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-align: left;
+    font-size: 30px;
+    padding-right: 1000px;
+}
+
+.vision {
+    font-family: 'Kodchasan', sans-serif;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    padding-right: 1000px;
+    text-align: left;
+    color: white !important;
+}

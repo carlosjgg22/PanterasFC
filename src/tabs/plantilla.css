@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+.label-mision, .label-vision, .label-objetivos, .label-plantilla, .label-recreativos, .label-torneos {
+    font-family: 'Audiowide', cursive;
+    font-size: 25px;
+    color: yellow;
+}
+
+.active-tab {
+    background-color: #007bff; 
+    color: #fff;
+}

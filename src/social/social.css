@@ -1,0 +1,21 @@
+.socialTwitter {
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    padding: 15px;
+}
+
+.socialInstagram {
+   color:orangered;
+    text-align: left;
+    font-size: 40px;
+    padding: 15px;
+}
+
+.socialWhatsapp {
+    color: green;
+    text-align: right;
+    font-size: 40px;
+    padding: 15px;
+}
+
